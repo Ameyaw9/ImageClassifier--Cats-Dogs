@@ -1,0 +1,7 @@
+outputs/
+*.pt
+.ipynb_checkpoints/
+__pycache__/
+*.amltmp
+config.json
+SDK v2/
